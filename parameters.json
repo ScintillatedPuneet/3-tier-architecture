@@ -1,0 +1,105 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "vulnerabilityAssessments_Default_storageContainerPath_1": {
+            "value": null
+        },
+        "servers_database_server1_name": {
+            "value": null
+        },
+        "servers_database_server2_name": {
+            "value": null
+        },
+        "virtualMachines_VMweb1_name": {
+            "value": null
+        },
+        "loadBalancers_backend_lb_name": {
+            "value": null
+        },
+        "loadBalancers_frontend_lb_name": {
+            "value": null
+        },
+        "sshPublicKeys_avm1_keypair_name": {
+            "value": null
+        },
+        "virtualMachines_vmwebtier2_name": {
+            "value": null
+        },
+        "networkInterfaces_vmweb1880_name": {
+            "value": null
+        },
+        "publicIPAddresses_VMweb1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_bastion_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_vmwebtier271_name": {
+            "value": null
+        },
+        "virtualMachines_application_vm1_name": {
+            "value": null
+        },
+        "virtualMachines_application_vm2_name": {
+            "value": null
+        },
+        "publicIPAddresses_newpublic_ipf_name": {
+            "value": null
+        },
+        "publicIPAddresses_vmwebtier2_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VMweb1_nsg_name": {
+            "value": null
+        },
+        "sshPublicKeys_application_vm2_key_name": {
+            "value": null
+        },
+        "availabilitySets_Availabilityset_1_name": {
+            "value": null
+        },
+        "availabilitySets_availability_set2_name": {
+            "value": null
+        },
+        "storageAccounts_sqlvaw7oloa3vhyxt2_name": {
+            "value": null
+        },
+        "networkInterfaces_application_vm133_name": {
+            "value": null
+        },
+        "networkInterfaces_application_vm2460_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vmwebtier2_nsg_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_vmweb1_name": {
+            "value": null
+        },
+        "virtualNetworks_3_tier_architecture_vnet_name": {
+            "value": null
+        },
+        "networkSecurityGroups_application_vm1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_application_vm2_nsg_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_vmwebtier2_name": {
+            "value": null
+        },
+        "bastionHosts_3_tier_architecture_vnet_bastion_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_application_vm1_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_application_vm2_name": {
+            "value": null
+        }
+    }
+}
